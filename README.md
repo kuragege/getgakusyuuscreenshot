@@ -9,3 +9,5 @@
 如  `https://kuragege.github.io/getgakusyuuscreenshot/index.html?term=22&season=2022`
 
 代表2022年第22期
+
+注:将链接复制至微信后从微信中打开
