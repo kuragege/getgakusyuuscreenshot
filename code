@@ -4,7 +4,7 @@
     <meta name="referrer" content="never">
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>“青年大学习”第[seasonChinese]季第[termChinese]期</title>
+    <title>青年大学习</title>
     <style>
     
     </style>
@@ -54,9 +54,9 @@
         
         function onImageLoadError() {
             if (!queryArguments.hasOwnProperty('term') || !queryArguments.hasOwnProperty('season'))
-                alert('使用方法不正确，请指定 term 和 season 参数。参见 https://github.com/kenvix/FuckDaXueXiScreenshot');
+                alert('使用方法不正确，请指定 term 和 season 参数。');
             else
-                alert('找不到指定大学习期数，请检查使用方法是否正确。参见 https://github.com/kenvix/FuckDaXueXiScreenshot');
+                alert('找不到指定大学习期数，请检查使用方法是否正确。');
         }
 
         function replacePlaceholders(text) {
